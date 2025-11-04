@@ -6,3 +6,4 @@
     -   pip install azure-storage-blob
 5.  Ordner mit dem Namen "Download" erstellen
 6. Python Datei "Azurite.py" ausführen
+hello
